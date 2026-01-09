@@ -1,0 +1,21 @@
+# ---------------- Core Backend ----------------
+fastapi
+uvicorn
+
+# ---------------- YOLO / ML ----------------
+ultralytics
+opencv-python-headless
+numpy
+pillow
+
+# ---------------- API utils ----------------
+python-multipart
+pydantic
+
+# ---------------- Frontend ----------------
+streamlit
+requests
+
+# ---------------- Visualization ----------------
+pandas
+altair
