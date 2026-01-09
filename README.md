@@ -1,4 +1,4 @@
-🛡️CircuitGuard – PCB Defect Detection using YOLO & Streamlit
+CircuitGuard – PCB Defect Detection using YOLO & Streamlit
 
 CircuitGuard is an AI-based PCB defect detection system powered by deep learning, utilizing the YOLOv11m model.
 It uses a custom-trained YOLO model and provides an interactive Streamlit interface for uploading images, visualizing defect locations, viewing defect summaries, and exporting reports.
